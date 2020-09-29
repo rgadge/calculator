@@ -9,6 +9,7 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 [![Build Status](https://dev.azure.com/rajneeshgadge0899/PartsUnlimited/_apis/build/status/rgadge.calculator?branchName=master)](https://dev.azure.com/rajneeshgadge0899/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
+https://dev.azure.com/rajneeshgadge0899/PartsUnlimited/_apis/build/status/rgadge.calculator?branchName=master
 
 To build, simply:
 
